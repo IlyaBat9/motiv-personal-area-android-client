@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Мой мотив</string>
+    <string name="login_button">Войти</string>
+    <string name="password">Пароль</string>
+    <string name="title_home">Home</string>
+    <string name="your_balance">Ваш баланс</string>
+    <string name ="current_balance">Текущий баланс</string>
+    <string name="how_i_can_help">Чем могу вам помочь?</string>
+</resources>
